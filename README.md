@@ -106,25 +106,37 @@ Examples:
 ## Repository Structure
 
 ```text
+## Repository Structure
+
+```text
 Excel-Business-Analytics/
 
 01_Excel_Fundamentals/
+├── README.md
 ├── MMS_Customer_Order_Form.xlsx
 
 02_Business_Analysis_and_Financial_Modeling/
+├── README.md
 ├── HW2_Loan_and_Sales_Analysis.xlsx
 ├── HW5_BreakEven_and_Scenario_Analysis.xlsx
 ├── FairTrade_Financial_Statements.xlsx
 
 03_PivotTables_and_Data_Analysis/
+├── README.md
 ├── HW3_PivotTables_and_Employee_Sales.xlsx
 
-04_Forms_Automation_and_Operations/
+04_Spreadsheet_Automation_and_Forms/
+├── README.md
 ├── HW4_Product_Stats_Form.xlsm
-├── HW9_Sales_and_Invoice_System.xlsx
 
-05_Performance_and_Optimization/
+05_Optimization_and_Performance_Analysis/
+├── README.md
 ├── HW8_Fleet_Acquisition_Analysis.xlsx
+
+06_Operational_Systems_and_Pricing/
+├── README.md
+├── HW9_Sales_and_Invoice_System.xlsx
+```
 ```
 
 ---
